@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, rgb(141, 185, 230), dodgerblue, rgb(0, 0, 53));
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+.text {
+    text-transform: uppercase;
+    margin-top: 200px;
+}
+img{
+    width: 60px;
+}
